@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Wiler Jr.,</h1>
 <br/>
-<h2 align="center">Mechatronics Engineer, IoT/AI, Mobile & Web Developer.</h2>
+<h2 align="center">Mechatronics Engineer | AI & ML Specialist | Full Stack Developer | Science, Technology & Literature Disseminator | Writer</h2>
 <h3 align="center">Currently working at Accenture</h3>
 
 <p align="center">
